@@ -1,5 +1,5 @@
 @echo off
 
-cd "C:\Users\FroLL\Desktop\VSCWorkspace\Python\misc\bio"
+cd "<path>"
 
-"C:\Users\FroLL\Desktop\VSCWorkspace\Python\misc\bio\Quiet.exe" py about_me.py
+"<path to Quiet.exe>" py about_me.py
